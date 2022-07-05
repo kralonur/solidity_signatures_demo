@@ -1,6 +1,6 @@
-# Project Title
+# Signatures demo
 
-Info about the project.
+EIP191 and EIP712 signatures demo contracts and test (for interaction).
 
 ## Installation
 
